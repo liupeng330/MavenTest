@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: pengliu.me.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.021 sec <<< FAILURE!
+testApp(pengliu.me.AppTest)  Time elapsed: 0.007 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...ti...> but was:<......>
+	at junit.framework.Assert.assertEquals(Assert.java:81)
+	at junit.framework.Assert.assertEquals(Assert.java:87)
+	at pengliu.me.AppTest.testApp(AppTest.java:37)
+
